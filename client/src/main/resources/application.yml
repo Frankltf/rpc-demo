@@ -1,0 +1,6 @@
+server:
+  port: 8086
+
+jsonrpc:
+  baseurl: http://localhost:8085/
+  scan: rpcservice
